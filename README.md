@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-## [Live](https://ctrlwisdom.github.io/intro-signup-form/index.html) | [Challenge](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1) | [Solution](https://github.com/ctrlwisdom/tree/main/intro-signup-form)
+## [Live](https://ctrlwisdom.github.io/intro-signup-form/index.html) | [Challenge](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1) | [Solution](https://github.com/ctrlwisdom/intro-signup-form)
 
 ## Table of contents
 
