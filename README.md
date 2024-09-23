@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-## [Live](https://nmankandeze.github.io/intro-signup-form/index.html) | [Challenge](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1) | [Solution](https://github.com/nmankandeze/intro-signup-form)
+## [Live](https://lassigcodr.github.io/intro-signup-form/index.html) | [Challenge](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1) | [Solution](https://github.com/lassigcodr/intro-signup-form)
 
 ## Table of contents
 
@@ -38,6 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@nmankandeze](https://www.frontendmentor.io/profile/nmankandeze)
-- Twitter - [@nmankandeze](https://www.twitter.com/nmankandeze)
+- Frontend Mentor - [@nmankandeze](https://www.frontendmentor.io/profile/lassigcodr)
 
